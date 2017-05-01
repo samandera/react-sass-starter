@@ -24,6 +24,12 @@ npm install style-loader
 npm install css-loader
 ```
 
+Fonts loader
+---
+
+```
+npm install --save-dev file-loader
+```
 
 
 Compile
