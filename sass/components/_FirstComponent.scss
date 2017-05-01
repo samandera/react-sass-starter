@@ -1,9 +1,7 @@
 .first-component {
-  background-color: transparent;
-  border: 1px solid green;
-  color: green;
-  padding: 20px;
-  font-size: 20px;
+  @extend .alert-success;
+  padding:20px;
+  font-size:20px;
   font-weight: bold;
   width:50%;
   margin:auto;
