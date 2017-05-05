@@ -1,9 +1,7 @@
 @import 'components/FirstComponent';
-$icon-font-path: "../assets/fonts/bootstrap/";
-@import "bootstrap";
 
 body {
-  background-color: white;
+  background-color: yellow;
   display: table;
   margin:0;
   width:100vw;
