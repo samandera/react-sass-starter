@@ -1,0 +1,13 @@
+.btn-group-first-component {
+  @extend .col-xs-6;
+  @extend .col-xs-offset-3;
+  .btn-first-component {
+    @extend .col-xs-12;
+    background-color: transparent;
+    border: 1px solid green;
+    color: green;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+  }
+}

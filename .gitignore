@@ -1,3 +1,9 @@
 node_modules
 .DS_Store
 www/bundle.js
+www/**.woff2
+www/**.svg
+www/**.ttf
+www/**.eot
+www/**.woff
+npm-debug.log

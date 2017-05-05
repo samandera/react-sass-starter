@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import FirstComponent from './components/FirstComponent';
+import BootstrapComponent from './components/BootstrapComponent';
 import '../sass/main.scss';
 
 document.addEventListener('DOMContentLoaded', function() {
   ReactDOM.render(
-    React.createElement(FirstComponent),
+    React.createElement(BootstrapComponent),
     document.getElementById('mount')
   );
 });

@@ -24,11 +24,20 @@ npm install style-loader
 npm install css-loader
 ```
 
-Fonts loader
+File loader
+---
+
+Good for loading fonts and images
+```
+npm install --save-dev file-loader
+```
+
+
+Install React-Bootstrap
 ---
 
 ```
-npm install --save-dev file-loader
+npm install --save react-bootstrap
 ```
 
 

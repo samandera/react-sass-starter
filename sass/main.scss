@@ -1,4 +1,7 @@
-@import 'components/FirstComponent';
+$icon-font-path: "../assets/fonts/bootstrap/";
+
+@import 'bootstrap';
+@import 'components/BootstrapComponent';
 
 body {
   background-color: yellow;
