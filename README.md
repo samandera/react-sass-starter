@@ -33,6 +33,15 @@ npm install --save-dev file-loader
 ```
 
 
+Install Redux
+---
+
+```
+npm install --save redux
+npm install --save react-redux
+```
+
+
 Install React-Bootstrap
 ---
 
